@@ -1,11 +1,21 @@
+google maps saved places
+- https://maps.app.goo.gl/pBwMBt1Lxn7Gqc6x5
+
 #### local markets
 
 near chan
 - [soi bai mai](https://maps.app.goo.gl/zRpDtUNjez4NftGA9)
+- asiatique
+
+#### cultural, historic
+
+- talat noi - historic neighbourhood, ethnic chinese communities, temples
+- chinatown (north of talat noi)
+- floating markets
 
 #### art spaces
 
-museums / art centers (all in phra nakhon)
+museums / art centers (phra nakhon - near chinatown)
 - museum siam
 - national gallery
 - Ratchadamnoen Contemporary Art Center
@@ -15,7 +25,7 @@ galleries
 - bacc - bangkok art and cultural center
 - jim thompson
 - moca - museum of contemporary art
-- bang rank area
+- bang rank area (north of saphan taksin bts)
 	- tcdc - thailand creative & design center
 	- river city
 	- warehouse 30
@@ -45,6 +55,10 @@ cafe, bar, record store, etc
 - wat don cemetery
 - benchasiri park
 - lumphini park
+	- --> (green mile walk) --> benchakitti
+- benchakitti
+- rot fai park (chatuchak)
+- bang kachao
 
 #### live music
 
@@ -67,7 +81,7 @@ metal
 jazz
 - [smalls](https://www.facebook.com/smallsbkk)
 - [foojohn](https://www.facebook.com/foojohnjazzclub)
-- [saxaphone pub](https://www.facebook.com/saxophone.pub.official.page) / [website](http://www.saxophonepub.com/)
+- [saxaphone pub](https://www.facebook.com/saxophone.pub.official.page) / [web](http://www.saxophonepub.com/)
 - [alonetogether](https://www.facebook.com/AlonetogetherBKK/) / [insta](https://www.instagram.com/alonetogetherbangkok/)
 - [adhere the 13th](https://www.facebook.com/adhere13thbluesbar/)
 - [brown sugar](https://www.facebook.com/brownsugarbangkok/)
@@ -103,11 +117,21 @@ see [[bangkok - events]] for more
 
 #### dispensaries
 
-420
+chez chan
+- 
 
-kratom?
+more
+- high society (next to alonetogether)
+- high society (near lumphini park)
+- cannabis twins (bang rak - lumphini park)
+- fatbuds (sathon)
+- coughing apes (bangna)
 
-#### shopping centers, nostalgia trips
+kratom
+- apparently common among street sellers
+- og kratom
 
-- emporium
+#### nostalgia trips
+
+- emporium shopping center
 - holy redeemer catholic church
