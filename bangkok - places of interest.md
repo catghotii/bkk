@@ -117,8 +117,6 @@ see [[bangkok - events]] for more
 
 #### dispensaries
 
-chez chan
-
 more
 - high society (next to alonetogether)
 - high society (near lumphini park)
