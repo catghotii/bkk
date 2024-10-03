@@ -1,19 +1,19 @@
 google maps saved places
 - https://maps.app.goo.gl/pBwMBt1Lxn7Gqc6x5
 
-#### local markets
+### local markets
 
 near chan
 - [soi bai mai](https://maps.app.goo.gl/zRpDtUNjez4NftGA9)
 - asiatique
 
-#### cultural, historic
+### cultural, historic
 
 - talat noi - historic neighbourhood, ethnic chinese communities, temples
 - chinatown (north of talat noi)
 - floating markets
 
-#### art spaces
+### art spaces
 
 museums / art centers (phra nakhon - near chinatown)
 - museum siam
@@ -50,7 +50,7 @@ cafe, bar, record store, etc
 - the jam factory (temp closed)
 - suksan space (temp closed)
 
-#### parks
+### parks
 
 - wat don cemetery
 - benchasiri park
@@ -60,7 +60,9 @@ cafe, bar, record store, etc
 - rot fai park (chatuchak)
 - bang kachao
 
-#### live music
+### live music
+
+#### venues
 
 experimental / underground / live houses
 - **noise house lat phrao**
@@ -91,29 +93,7 @@ jazz
 - buddha & pals
 - crimson room
 
-#### electronic, dance
-
-clubs
-- 12 x 12 (nightly selections/styles)
-- studio lam (nightly selections/styles)
-- never normal (techno) (closed)
-- de commune (techno) (closed - only events)
-
-clubs (less interesting?)
-- ETA
-- mustache (looks like tech house lmao)
-- blaq lyte rover
-- subwerk (hardstyle? psy?)
-- tropical galaxy
-
-#### other clubs, bars, food, live, etc
-
-- wong's place (open late)
-- the rat
-- fatty's
-- brick bar
-
-#### events - check posts
+#### events
 
 live music - experimental, underground, etc
 - harmonica
@@ -127,6 +107,25 @@ live music - experimental, underground, etc
 	- https://www.facebook.com/groups/bangkokstreetnoise/
 - punk rock bkk
 	- https://www.facebook.com/groups/1853958344865269/
+
+### electronic, dance
+
+#### venues
+
+clubs/bars
+- 12 x 12 (nightly selections/styles)
+- studio lam (nightly selections/styles)
+- never normal (techno) (closed)
+- de commune (techno) (closed - only events)
+
+clubs (less interesting?)
+- ETA
+- mustache (looks like tech house lmao)
+- blaq lyte rover
+- subwerk (hardstyle? psy?)
+- tropical galaxy
+
+#### events
 
 bars / clubs
 - studio lam (house, world, electronic & live)
@@ -149,11 +148,18 @@ collectives
 - **kankao** (rave)
 	- https://www.instagram.com/kangkao_/?hl=en
 
-others
+more
 - riotnox (hard techno/hardstyle)
 	- https://www.instagram.com/riotnox/?hl=en
 
-#### dispensaries
+### other clubs, bars, food, live, etc
+
+- wong's place (open late)
+- the rat
+- fatty's
+- brick bar
+
+### dispensaries
 
 more
 - high society (next to alonetogether)
@@ -166,14 +172,14 @@ kratom
 - apparently common among street sellers
 - og kratom
 
-#### nostalgia trips
+### nostalgia trips
 
 - emporium shopping center
 - holy redeemer catholic church
 - bangkok patana school
 - sukhumvit soi 49
 
-#### calendar
+### calendar
 
 9.11 sat
 - kokeshi (tokyo, jupiter records) - j-horror/shoegaze/black metal
