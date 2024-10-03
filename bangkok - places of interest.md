@@ -15,6 +15,12 @@ near chan
 - chinatown (north of talat noi)
 - floating markets
 
+#### temples
+
+- wat arun
+- wat phra
+- the grand palace
+
 ### art spaces
 
 museums / art centers (phra nakhon - near chinatown)
@@ -110,6 +116,13 @@ live music - experimental, underground, etc
 - punk rock bkk
 	- https://www.facebook.com/groups/1853958344865269/
 
+### dive bars, food, live, etc
+
+- wong's place (open late)
+- the rat
+- fatty's
+- brick bar
+
 ### electronic, dance
 
 #### venues
@@ -154,13 +167,6 @@ more
 - riotnox (hard techno/hardstyle)
 	- https://www.instagram.com/riotnox/?hl=en
 
-### other clubs, bars, food, live, etc
-
-- wong's place (open late)
-- the rat
-- fatty's
-- brick bar
-
 ### dispensaries
 
 more
@@ -180,6 +186,14 @@ kratom
 - holy redeemer catholic church
 - bangkok patana school
 - sukhumvit soi 49
+
+### touristic
+
+#### red-light
+
+- soi cowboy
+- patpong
+- nana plaza
 
 ### calendar
 
