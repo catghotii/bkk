@@ -21,6 +21,24 @@ near chan
 - wat phra
 - the grand palace
 
+### touristic
+
+#### red-light
+
+- soi cowboy
+- patpong
+- nana plaza
+
+### parks
+
+- wat don cemetery
+- benchasiri park
+- lumphini park
+	- --> (green mile walk) --> benchakitti
+- benchakitti
+- rot fai park (chatuchak)
+- bang kachao
+
 ### art spaces
 
 museums / art centers (phra nakhon - near chinatown)
@@ -57,16 +75,6 @@ cafe, bar, record store, etc
 - hidden woods
 - the jam factory (temp closed)
 - suksan space (temp closed)
-
-### parks
-
-- wat don cemetery
-- benchasiri park
-- lumphini park
-	- --> (green mile walk) --> benchakitti
-- benchakitti
-- rot fai park (chatuchak)
-- bang kachao
 
 ### live music
 
@@ -186,14 +194,6 @@ kratom
 - holy redeemer catholic church
 - bangkok patana school
 - sukhumvit soi 49
-
-### touristic
-
-#### red-light
-
-- soi cowboy
-- patpong
-- nana plaza
 
 ### calendar
 
